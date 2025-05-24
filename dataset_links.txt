@@ -1,0 +1,10 @@
+
+UBBox link to Datasets - https://buffalo.box.com/s/8pyps428x18lirnp2i7wwdrf84dvo2bp
+
+Part 3 Dataset: Individual Household Electric Power Consumption - https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
+
+
+Part 4 Dataset: Large Movie Review Dataset - https://ai.stanford.edu/~amaas/data/sentiment/
+
+
+Bonus Part 2 Dataset: Food-11 image dataset - https://www.kaggle.com/datasets/trolukovich/food11-image-dataset
