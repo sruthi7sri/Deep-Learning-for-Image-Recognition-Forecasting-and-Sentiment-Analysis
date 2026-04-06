@@ -64,7 +64,6 @@ Deep-Learning-for-Image-Recognition-Forecasting-and-Sentiment-Analysis/
 ├── requirements.txt
 ├── model_weights_links.txt
 ├── dataset_links.txt
-├── requirements.txt
 └── README.md
 ```
 
